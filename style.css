@@ -1,0 +1,42 @@
+body {
+    background: rgb(14, 14, 14);
+}
+
+h1 {
+    color: white;
+}
+
+.Timer {
+    text-align: center;
+}
+
+
+/*em: referente ao tamanho da fonte*/
+
+button {
+    height: 2.2em;
+    width: 5.5em;
+    border: none;
+    color: white;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+.Start-btn {
+    background-color: rgb(4, 167, 45);
+}
+
+.Pause-btn {
+    background-color: rgb(152, 165, 140);
+}
+
+.Stop-btn {
+    background-color: rgb(255, 0, 0);
+}
+
+.meuNome {
+    text-align: center;
+    color: rgb(255, 11, 214);
+}
